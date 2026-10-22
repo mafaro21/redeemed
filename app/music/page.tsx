@@ -1,7 +1,7 @@
 'use client';
 
 import React, { useState } from 'react';
-import { Play, ExternalLink, Music as MusicIcon, Youtube } from 'lucide-react';
+import { Play, ExternalLink, Music as MusicIcon } from 'lucide-react';
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
 

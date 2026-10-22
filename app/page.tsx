@@ -30,6 +30,7 @@ interface Video {
   duration: string;
   artist: string;
   thumb: string;
+  youtubeId: string
 }
 
 const cookie = Petit_Formal_Script({
