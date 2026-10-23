@@ -111,7 +111,7 @@ export default function ContactPage() {
                                         <MapPin className="mt-1 size-5 text-red-500" />
                                         <div>
                                             <p className="text-[10px] font-bold uppercase tracking-[0.2em] text-zinc-500">Studio</p>
-                                            <p className="text-sm font-bold text-white">104 Franklin St. Brooklyn, NY 11222</p>
+                                            <p className="text-sm font-bold text-white">104 Franklin St. Brooklyn, Harare 11222</p>
                                         </div>
                                     </div>
                                 </div>

@@ -54,9 +54,9 @@ export default function Footer() {
                     </div>
 
                     <div className="md:col-span-4">
-                        <p className="text-xs font-bold uppercase tracking-[0.2em] text-red-500">Studio Location</p>
+                        <p className="text-xs font-bold uppercase tracking-[0.2em] text-red-500">Location</p>
                         <p className="mt-4 text-sm leading-relaxed text-zinc-400">
-                            104 Franklin St.<br />Brooklyn, NY 11222
+                            Harare Zimbabwe
                         </p>
                         <a
                             href="mailto:theredeemedfamily@gmail.com"

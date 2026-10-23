@@ -4,14 +4,14 @@ import Footer from '@/components/Footer';
 import Navbar from '@/components/Navbar';
 
 const UPCOMING = [
-    { date: '10/11', day: 'FRI', title: 'After Hours / Vol. 04', venue: 'The Mercury Lounge, NYC', time: '10:00 PM EST' },
+    { date: '10/11', day: 'FRI', title: 'After Hours / Vol. 04', venue: 'The Mercury Lounge, Harare', time: '10:00 PM EST' },
     { date: '21/11', day: 'SAT', title: 'Redeemed Family Sessions: Live', venue: 'The Echo Room, Chicago', time: '9:00 PM CST' },
     { date: '11/12', day: 'FRI', title: 'Night Drive Radio', venue: 'Studio 03 Broadcast', time: '11:00 PM EST' },
-    { date: '19/12', day: 'SAT', title: 'End of Year Showcase', venue: 'Brooklyn Steel, NY', time: '8:00 PM EST' },
+    { date: '19/12', day: 'SAT', title: 'End of Year Showcase', venue: 'Brooklyn Steel, Harare', time: '8:00 PM EST' },
 ];
 
 const PAST = [
-    { date: '09/2026', title: 'Summer Rooftop Session', venue: 'Brooklyn, NY' },
+    { date: '09/2026', title: 'Summer Rooftop Session', venue: 'Brooklyn, Harare' },
     { date: '07/2026', title: 'Analog Nights Vol. 03', venue: 'The Echo Room, Chicago' },
     { date: '05/2026', title: 'Crimson Warehouse Party', venue: 'Detroit, MI' },
 ];
@@ -82,7 +82,7 @@ export default function EventsPage() {
                                 </p>
                                 <div className="mt-6 flex flex-wrap gap-3 text-xs font-medium text-zinc-700">
                                     <span className="flex items-center gap-1.5 border border-zinc-200 bg-zinc-50 px-3 py-1.5">
-                                        <MapPin className="size-3.5 text-red-700" /> The Mercury Lounge, NYC
+                                        <MapPin className="size-3.5 text-red-700" /> The Mercury Lounge, Harare
                                     </span>
                                     <span className="flex items-center gap-1.5 border border-zinc-200 bg-zinc-50 px-3 py-1.5">
                                         <Clock className="size-3.5 text-red-700" /> Oct 24 · 10:00 PM EST
